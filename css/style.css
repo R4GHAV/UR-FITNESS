@@ -221,21 +221,16 @@
 
 /* plan price */
 .plan-row{
+  display: flex;
   margin: 150px 0 100px;
-  padding: 0 100px;
 
 }
-.base-card{
-  text-align: center;
-}
-.max-card{
-text-align: center;
-}
-.pro-card{
-  text-align: center;
+.rateCard{
+  display: flex;
+  justify-content: space-around;
 }
 .price-item{
-  text-align: left;
+  display: flex;
 }
 
 .price-head{
