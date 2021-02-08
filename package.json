@@ -1,0 +1,19 @@
+{
+  "name": "ur-fitness",
+  "description": "Every site on this list of the best fitness websites is going to provide fitness expertise. Whether you are looking for a specific type of workout or general fitness knowledge, this list is going to have you covered. Take a look through the websites we have featured and find the fitness sites that are going to best fit you and your fitness journey. it even has a payment page.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R4GHAV/UR-FITNESS.git"
+  },
+  "author": "deepankar batra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R4GHAV/UR-FITNESS/issues"
+  },
+  "homepage": "https://github.com/R4GHAV/UR-FITNESS#readme"
+}
